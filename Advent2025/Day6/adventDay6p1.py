@@ -23,3 +23,4 @@ for col in range(width + 1):
             start = None
 
 print("\ntotal sum is- ",total)
+#day6p1

@@ -35,3 +35,4 @@ for col in range(width + 1):
             start = None
 
 print(total)
+#day6p2
